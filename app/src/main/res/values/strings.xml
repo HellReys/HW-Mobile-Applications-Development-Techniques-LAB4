@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">Madtlab4</string>
+    <string name="app_name">MADT Lab 4 - Notes</string>
+
+
+    <string name="title_main">Notes</string>
+    <string name="menu_add_note">Add Note</string>
+    <string name="menu_delete_note">Delete Note</string>
+    <string name="menu_switch_storage">Switch Storage</string>
+    <string name="storage_prefs">SharedPreferences</string>
+    <string name="storage_files">Internal File (JSON)</string>
+    <string name="no_notes_placeholder">No notes yet. Use menu → Add Note.</string>
+
+    <string name="title_add">Add Note</string>
+    <string name="label_note_name">Note name</string>
+    <string name="label_note_content">Note content</string>
+    <string name="button_save">Save</string>
+    <string name="toast_empty_name">Please enter a note name.</string>
+    <string name="toast_empty_content">Please enter note content.</string>
+    <string name="toast_note_saved">Note saved.</string>
+    <string name="toast_note_exists">A note with this name already exists.</string>
+
+    <string name="title_delete">Delete Note</string>
+    <string name="toast_note_deleted">Note deleted.</string>
+    <string name="confirm_delete_title">Delete note</string>
+    <string name="confirm_delete_message">Are you sure you want to delete "%1$s"?</string>
+    <string name="confirm_delete_yes">Yes</string>
+    <string name="confirm_delete_no">No</string>
+
+    <string name="action_cancel">Cancel</string>
 </resources>
